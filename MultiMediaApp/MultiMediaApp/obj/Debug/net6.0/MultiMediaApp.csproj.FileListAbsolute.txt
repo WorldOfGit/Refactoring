@@ -1,0 +1,15 @@
+D:\C#\Refactoring\MultiMediaApp\MultiMediaApp\bin\Debug\net6.0\MultiMediaApp.exe
+D:\C#\Refactoring\MultiMediaApp\MultiMediaApp\bin\Debug\net6.0\MultiMediaApp.deps.json
+D:\C#\Refactoring\MultiMediaApp\MultiMediaApp\bin\Debug\net6.0\MultiMediaApp.runtimeconfig.json
+D:\C#\Refactoring\MultiMediaApp\MultiMediaApp\bin\Debug\net6.0\MultiMediaApp.dll
+D:\C#\Refactoring\MultiMediaApp\MultiMediaApp\bin\Debug\net6.0\ref\MultiMediaApp.dll
+D:\C#\Refactoring\MultiMediaApp\MultiMediaApp\bin\Debug\net6.0\MultiMediaApp.pdb
+D:\C#\Refactoring\MultiMediaApp\MultiMediaApp\obj\Debug\net6.0\MultiMediaApp.csproj.AssemblyReference.cache
+D:\C#\Refactoring\MultiMediaApp\MultiMediaApp\obj\Debug\net6.0\MultiMediaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Refactoring\MultiMediaApp\MultiMediaApp\obj\Debug\net6.0\MultiMediaApp.AssemblyInfoInputs.cache
+D:\C#\Refactoring\MultiMediaApp\MultiMediaApp\obj\Debug\net6.0\MultiMediaApp.AssemblyInfo.cs
+D:\C#\Refactoring\MultiMediaApp\MultiMediaApp\obj\Debug\net6.0\MultiMediaApp.csproj.CoreCompileInputs.cache
+D:\C#\Refactoring\MultiMediaApp\MultiMediaApp\obj\Debug\net6.0\MultiMediaApp.dll
+D:\C#\Refactoring\MultiMediaApp\MultiMediaApp\obj\Debug\net6.0\ref\MultiMediaApp.dll
+D:\C#\Refactoring\MultiMediaApp\MultiMediaApp\obj\Debug\net6.0\MultiMediaApp.pdb
+D:\C#\Refactoring\MultiMediaApp\MultiMediaApp\obj\Debug\net6.0\MultiMediaApp.genruntimeconfig.cache
